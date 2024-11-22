@@ -27,7 +27,7 @@ Welcome to the **Stuff_MISIS** repository! This bot facilitates a marketplace fo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/stuff_misis.git
+   git clone https://github.com/Salama-Malek/stuff_misis
    cd stuff_misis
    ```
 
